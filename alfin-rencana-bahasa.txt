@@ -6,3 +6,4 @@ Rencana bahasa pemrograman
 - Belajar PHP framework
 - Belajar CSS
 - Belajar vueJs / reactJs
+- Belajar Design
