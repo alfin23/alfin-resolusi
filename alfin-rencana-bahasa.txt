@@ -2,8 +2,11 @@ Rencana bahasa pemrograman
 
 - Belajar javascript
   * Javascript Modules
-  * Javascript Librady
+  * Javascript Library
+  * Javascript DOM
 - Belajar PHP framework
+  * Laravel
 - Belajar CSS
 - Belajar vueJs / reactJs
 - Belajar Design
+- Belajar Python
