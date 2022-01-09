@@ -1,0 +1,5 @@
+Rencana bahasa pemrograman
+- Belajar javascript
+- Belajar PHP framework
+- Belajar CSS
+- Belajar vueJs / reactJs
