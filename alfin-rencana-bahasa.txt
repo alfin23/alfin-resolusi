@@ -8,7 +8,7 @@ Rencana bahasa pemrograman
 - Belajar PHP framework
   * Laravel
 - Belajar CSS
-- Belajar vueJs / reactJs
+- Belajar vueJs / reactJs / angularJs
 - Belajar Design
 - Belajar Python
 
