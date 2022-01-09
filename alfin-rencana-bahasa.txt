@@ -4,6 +4,7 @@ Rencana bahasa pemrograman
   * Javascript Modules
   * Javascript Library
   * Javascript DOM
+  * Javascript Async
 - Belajar PHP framework
   * Laravel
 - Belajar CSS
